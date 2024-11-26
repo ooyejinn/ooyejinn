@@ -1,6 +1,6 @@
 # 👋 Hi there
 UX를 고려하고 설계하는 개발자, 오예진
-<br/><br/>
+<br/><br/><br/>
 
 ## 🛠 Tech Stacks
 ### Frontend
@@ -22,7 +22,7 @@ UX를 고려하고 설계하는 개발자, 오예진
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<br/><br/>
+<br/><br/><br/>
 
 <div style="display: flex;">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyejinn&langs_count=10&layout=compact" alt="Top Languages"/>
