@@ -25,6 +25,6 @@ UX를 고려하고 설계하는 개발자, 오예진
 <br/><br/><br/>
 
 <div style="display: flex;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyejinn&langs_count=10&layout=compact" alt="Top Languages"/>
-  <img height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ooyejinn" alt="Solved.ac Profile"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyejinn&langs_count=10&layout=compact" alt="Top Languages"/>
+  <img height="160" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ooyejinn" alt="Solved.ac Profile"/>
 </div>
